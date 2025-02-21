@@ -1,2 +1,2 @@
-# apache-kafka-application
-다시 읽어보는 아파치 카프카 어플리케이션 프로그래밍
+# kafka-the-definitive-guide
+카프카 핵심 가이드 (대규모 실시간 데이터와 스트림 처리)
